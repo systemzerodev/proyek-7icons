@@ -2,9 +2,9 @@
 
 # Proyek Website 7Icons
 
-Website company profile sederhana untuk brand **7Icons**.
-Project ini dibuat sebagai latihan pengembangan website statis
-menggunakan HTML, CSS, dan JavaScript.
+Website company profile sederhana untuk brand 7Icons.
+Repository ini berisi source code website statis beserta admin panel sederhana
+yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## Fitur
 - Landing page modern

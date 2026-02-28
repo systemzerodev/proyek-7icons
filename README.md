@@ -22,6 +22,8 @@ Project ini dibuat untuk pembelajaran dan portofolio pengembangan web.
 
 ## Preview
 
+Preview website akan ditambahkan setelah tahap pengembangan selanjutnya.
+
 #### Screenshoot
 
 ##### Layout front end :

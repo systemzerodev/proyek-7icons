@@ -12,6 +12,11 @@ yang dibuat menggunakan HTML, CSS, dan JavaScript.
 - Layout responsif
 - Struktur folder rapi
 
+## Struktur Folder
+- admin-panel/ → halaman admin
+- proyek website/ → halaman utama website
+- Proyek Template/ → template awal project
+
 ## Teknologi yang Digunakan
 - HTML5
 - CSS3

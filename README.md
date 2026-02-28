@@ -1,8 +1,27 @@
 <p align="center">
 
-# Proyek website 7icons
+# Proyek Website 7Icons
 
-Ini adalah proyek pertama saya untuk membuat website 7icons dan berikut adalah contoh layout website yang akan saya buat.
+Website company profile sederhana untuk brand **7Icons**.
+Project ini dibuat sebagai latihan pengembangan website statis
+menggunakan HTML, CSS, dan JavaScript.
+
+## Fitur
+- Landing page modern
+- Admin panel sederhana
+- Layout responsif
+- Struktur folder rapi
+
+## Teknologi yang Digunakan
+- HTML5
+- CSS3
+- JavaScript
+
+## Tujuan Project
+Project ini dibuat untuk pembelajaran dan portofolio pengembangan web.
+
+## Preview
+(Screenshot / link demo nanti)
 
 ##### Layout front end :
 

@@ -21,7 +21,8 @@ menggunakan HTML, CSS, dan JavaScript.
 Project ini dibuat untuk pembelajaran dan portofolio pengembangan web.
 
 ## Preview
-(Screenshot / link demo nanti)
+
+#Screenshoot
 
 ##### Layout front end :
 

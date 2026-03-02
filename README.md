@@ -1,6 +1,6 @@
 <p align="center">
 
-# Proyek Website 7Icons
+# Project Website 7Icons
 
 Website company profile sederhana untuk brand 7Icons.
 Repository ini berisi source code website statis beserta admin panel sederhana
